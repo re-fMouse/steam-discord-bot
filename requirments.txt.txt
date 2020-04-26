@@ -1,0 +1,5 @@
+git+https://github.com/Rapptz/discord.py
+gevent==14.0
+asyncio
+threading
+git+https://github.com/ValvePython/steam
