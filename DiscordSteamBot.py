@@ -18,6 +18,7 @@ def handle_message(user, message_text):
     print('Got steam message: ' + str(message_text) + ' from: ' + user.name +' with steamid:' + str(user.steam_id))
     user.send_message('Command not found, if there anything wrong, contact with my creator - fmouse, steamid = 76561198071680434')
 
+
 class MyBot(commands.Bot):
     async def on_ready(self):
         print(f'Ready {self.user}:{self.user.id}')
