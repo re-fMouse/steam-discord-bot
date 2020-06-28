@@ -1,12 +1,12 @@
 #DISCORD
 
 
-TOKEN = "NzAzMDEyODMyOTU4MjE4MzQy.XqKsSA.9VWSChP67SOyrWhCYZA0_z3f8UY"
+TOKEN = "TokenExample"
 
-CLIENTID = "703012832958218342"
+CLIENTID = "ClientIDExample"
 
 #STEAM
 
-USERNAME = 'fmousebot2'
+USERNAME = 'steamLoginExample'
 
-PASSWORD = 'malchBoot@2'
+PASSWORD = 'steamPasswordExample'
